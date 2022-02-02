@@ -4,5 +4,7 @@
     <nuxt-link to="/detail">detail</nuxt-link>
     <br>
     <nuxt-link to="/list-华为/1">list-huawei/1</nuxt-link>
+    <br>
+    <nuxt-link to="/parent/child">parent/child</nuxt-link>
   </div>
 </template>
