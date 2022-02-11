@@ -8,5 +8,7 @@
     <nuxt-link to="/parent/child">parent/child</nuxt-link>
     <br>
     <nuxt-link to="/special">special</nuxt-link>
+    <br>
+    <nuxt-link to="/special1">special1</nuxt-link>
   </div>
 </template>
